@@ -5,9 +5,9 @@ Matt (Project Manager/ Level Design),
 Greg (3d art assets),
 Adam (Programmer),
 Nigel (Programmer).
+Update Log
 =====================================
 
-Update log:
 Shooting (Unfinished)
 Crash System (Finished)
 Flying Helicopter (Finished)
